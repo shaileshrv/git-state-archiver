@@ -1,0 +1,34 @@
+{
+  "name": "git-state-archiver",
+  "version": "1.0.0",
+  "description": "Collects git conflicted files, saves a report and copies files for future review.",
+  "main": "index.js",
+  "bin": {
+    "git-state-archiver": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaileshrv/git-state-archiver.git"
+  },
+  "keywords": [
+    "git",
+    "conflict",
+    "status",
+    "merge",
+    "report",
+    "archive",
+    "snapshot",
+    "branch",
+    "cli",
+    "git-state"
+  ],
+  "author": "Shaileshkumar R Vishvakarma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaileshrv/git-state-archiver/issues"
+  },
+  "homepage": "https://github.com/shaileshrv/git-state-archiver#readme"
+}
